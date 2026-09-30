@@ -1,0 +1,8 @@
+newspaper4k>=0.9.3
+lxml[html_clean]>=5.2
+requests>=2.31
+pandas>=2.0,<3
+pyspark>=3.5
+nltk>=3.8
+wordcloud>=1.9
+matplotlib>=3.7
